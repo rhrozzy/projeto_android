@@ -66,7 +66,7 @@ header > p {
     color: white;
     font-family: var(--fonte1);
     font-size: 1.2em;
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
@@ -110,7 +110,7 @@ nav > a:hover {
 
 main {
     background-color: rgba(255, 255, 255, 0.74);
-    min-width: 750px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px ;
